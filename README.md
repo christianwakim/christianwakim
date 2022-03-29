@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christianwakim" alt="christianwakim" /></a> </p>
 
-- 🔭 I’m currently working on [Sports Management Tool](https://github.com/AUBProjects-CCE/EECE430-Group14-Spring2022)
+- 🔭 I’m currently working on [Sports Club Management System](https://github.com/AUBProjects-CCE/EECE430-Group14-Spring2022)
 
 - 🌱 I’m currently learning **Python Django**
 
