@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Sports Management Tool](https://github.com/AUBProjects-CCE/EECE430-Group14-Spring2022)
 
-- 🌱 I’m currently learning **Python Django**
+- 🌱 I’m currently learning **Django, Ruby, and Rails**
 
 - 👨‍💻 All of my projects are available at [https://github.com/christianwakim](https://github.com/christianwakim)
 
