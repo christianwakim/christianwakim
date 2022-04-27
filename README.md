@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christianwakim&label=Profile%20views&color=0e75b6&style=flat" alt="christianwakim" /> </p>
 
-- 🔭 I’m currently working on [Sports Management Tool](https://github.com/AUBProjects-CCE/EECE430-Group14-Spring2022)
+- 🔭 I’m currently studying for my finals.
 
 - 🌱 I’m currently learning **Django, Ruby, and Rails**
 
